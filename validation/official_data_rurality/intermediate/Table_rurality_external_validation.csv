@@ -1,0 +1,8 @@
+iso_code,country,urbanisation_rate_pct,Official household,Official total,Study total,study_official_total_same_direction,interpretation
+BRA,Brazil,85.6935697061881,-0.16534454043090857,-0.20334237142236467,0.04335487256654891,False,Official total electricity is lower in more rural subnational units
+CHN,China,57.3297843933105,,0.1005251019634148,0.252297407647676,True,Official total electricity is higher in more rural subnational units
+FRA,France,77.7610919150066,0.04985791903153891,-0.01561919965577388,0.08401032601455657,False,Official total electricity is lower in more rural subnational units
+IND,India,32.5472990022299,,-0.15827780034036576,0.17156428839015125,False,Official total electricity is lower in more rural subnational units
+PRT,Portugal,61.137469211538,0.13035940488793418,0.21326334630250088,0.21731057245079377,True,Official total electricity is higher in more rural subnational units
+USA,United States,80.5707989535091,0.12429835383004068,0.11810215196821633,0.34468379960094125,True,Official total electricity is higher in more rural subnational units
+ZAF,South Africa,63.2096349937231,,-0.25887374566327037,-0.09980907125731431,True,Official total electricity is lower in more rural subnational units

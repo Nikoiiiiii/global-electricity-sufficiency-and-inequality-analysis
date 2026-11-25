@@ -1,0 +1,8 @@
+research_question,effect,stage,source,estimate,n_units
+RQ3,Rurality,Full global study sample,Study estimate,0.232,1527
+RQ3,Rurality,Matched seven-country sample,Study estimate,0.21969760890849616,180
+RQ3,Rurality,Matched seven-country sample,Official total,0.046227091764655066,180
+RQ4,Rurality × urbanisation rate,Full global study sample,Study estimate,0.3843231253440803,1399
+RQ4,Rurality × urbanisation rate,"Matched sample, original global scaling",Study estimate,-0.12653206041792214,180
+RQ4,Rurality × urbanisation rate,"Matched sample, matched scaling",Study estimate,-0.09187755870847308,180
+RQ4,Rurality × urbanisation rate,"Matched sample, matched scaling",Official total,-0.039324739746382203,180

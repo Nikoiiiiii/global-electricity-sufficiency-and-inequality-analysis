@@ -1,0 +1,16 @@
+scenario,scenario_label,indicator,spearman_vs_baseline,n_gdl,gap_top20_jaccard,gap_hotspots_common,gap_hotspots_each
+baseline,Baseline,gap,0.9999999999999999,1533,1.0,307.0,307.0
+baseline,Baseline,deficit,1.0,1533,,,
+baseline,Baseline,excess,1.0,1533,,,
+low_density_5,Exclude lowest 5% density,gap,0.9999999999999999,1533,1.0,307.0,307.0
+low_density_5,Exclude lowest 5% density,deficit,1.0,1533,,,
+low_density_5,Exclude lowest 5% density,excess,1.0,1533,,,
+low_density_10,Exclude lowest 10% density,gap,0.9999999999999999,1533,1.0,307.0,307.0
+low_density_10,Exclude lowest 10% density,deficit,0.9999999966688955,1533,,,
+low_density_10,Exclude lowest 10% density,excess,0.9999944234544191,1533,,,
+high_ecpc_1,Exclude highest 1% ECpc,gap,0.9999999999999999,1533,1.0,307.0,307.0
+high_ecpc_1,Exclude highest 1% ECpc,deficit,1.0,1533,,,
+high_ecpc_1,Exclude highest 1% ECpc,excess,1.0,1533,,,
+high_ecpc_5,Exclude highest 5% ECpc,gap,0.9999999999999999,1533,1.0,307.0,307.0
+high_ecpc_5,Exclude highest 5% ECpc,deficit,1.0,1533,,,
+high_ecpc_5,Exclude highest 5% ECpc,excess,1.0,1533,,,

@@ -1,0 +1,9 @@
+source,effect,loco_models,positive_folds,min_estimate,max_estimate,positive_share
+Official total,Education × education inequality,7,7,0.28348814915497655,0.6102605680204882,1.0
+Official total,Female share × GII,7,6,-0.011102238949713683,0.20679896178437215,0.8571428571428571
+Official total,Rurality × urbanisation rate,7,0,-0.10383099785880809,-0.022240563798556226,0.0
+Official total,SES × income inequality,7,7,0.05146314877006036,0.09131129376678121,1.0
+Study estimate,Education × education inequality,7,7,0.2881031017153028,0.5951699227191873,1.0
+Study estimate,Female share × GII,7,4,-0.08089191608456456,0.1523756468404301,0.5714285714285714
+Study estimate,Rurality × urbanisation rate,7,1,-0.19152513105275365,0.028406352301836274,0.14285714285714285
+Study estimate,SES × income inequality,7,6,-0.12140771307170839,0.0732652939941573,0.8571428571428571

@@ -1,0 +1,6 @@
+scenario,scenario_label,retained_pixel_share,retained_population_share,retained_electricity_share,n_gdl
+baseline,Baseline,1.0,1.0,1.0,1744
+low_density_5,Exclude lowest 5% density,0.947338515520436,0.9999998855664722,0.9964696919438852,1744
+low_density_10,Exclude lowest 10% density,0.899999758843413,0.9999990517776461,0.9934938482114257,1744
+high_ecpc_1,Exclude highest 1% ECpc,0.9894250425038484,0.9999999974395983,0.9986666312717116,1744
+high_ecpc_5,Exclude highest 5% ECpc,0.9499999598072355,0.9999996790880005,0.9914427901760432,1744
